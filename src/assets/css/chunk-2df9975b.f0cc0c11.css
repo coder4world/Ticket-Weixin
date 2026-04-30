@@ -1,0 +1,71 @@
+[data-v-c66b9dcc] .van-cell__value {
+    color: red;
+    font-size: 16px
+}
+
+[data-v-c66b9dcc] .van-pull-refresh__track {
+    position: relative;
+    min-height: calc(100vh - 50px)
+}
+
+[data-v-c66b9dcc] .van-notice-bar {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0
+}
+
+[data-v-c66b9dcc] .van-notice-bar__wrap {
+    justify-content: center
+}
+
+.header[data-v-c66b9dcc] {
+    padding: 20px 15px 20px;
+    min-height: 150px;
+    background: #263867
+}
+
+.header-img[data-v-c66b9dcc] {
+    display: block;
+    width: 60px;
+    height: 60px;
+    margin: 0 auto;
+    border-radius: 60px
+}
+
+.header-info[data-v-c66b9dcc] {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 40px 30px 20px;
+    margin-top: -30px;
+    min-height: 100px;
+    border-radius: 15px
+}
+
+.header-name_credit[data-v-c66b9dcc] {
+    margin-top: 16px;
+    z-index: 1;
+    word-break: keep-all;
+    background: #263867
+}
+
+.header-money[data-v-c66b9dcc] {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    color: #fff
+}
+
+.header-money_text[data-v-c66b9dcc]:before {
+    content: "ï¿¥";
+    font-size: 12px
+}
+
+.technologyTeam[data-v-c66b9dcc] {
+    position: absolute;
+    left: 0;
+    bottom: 10px;
+    width: 100%
+}
