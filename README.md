@@ -11,8 +11,7 @@
 
 ## 📱 演示预览 (Demo)
 
-### 1. 核心流程预览
-![Demo Preview](./demo_preview.gif)
+### 1. 核心流程实测
 
 > [!WARNING]
 > ### ⚠️ 必读：微信测试号准入流程
@@ -28,6 +27,9 @@
 </p>
 
 ### 2. 完整演示视频
+
+![Demo Preview](./demo_preview.gif)
+
 请观看下方演示录屏，了解从授权登录到下单的完整流程：
 
 [📺 点击播放演示视频](https://github.com/user-attachments/assets/48dc3bf6-5058-4863-8453-0c52327942e5)
